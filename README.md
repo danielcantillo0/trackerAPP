@@ -1,2 +1,3 @@
 # trackerAPP
-Tracker app with react native
+
+Tracker app with react native and mongoDB
